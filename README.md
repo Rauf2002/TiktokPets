@@ -22,4 +22,4 @@ There is already one hard coded table of 8 tiktok videos URLs. Whenever the user
 
 ## **Frontend**
 
-No external libraries have been used for this project, except _FontAwesome_ for icons and _Google Fonts_ for fonts. Frontend is typical CSS and HTML. Additionally, media queries are taking care of responsiveness. 
+No external libraries have been used for this project, except _FontAwesome_ for icons and _Google Fonts_ for fonts. Frontend is typical CSS and HTML. Additionally, media queries are taking care of the responsiveness. 
