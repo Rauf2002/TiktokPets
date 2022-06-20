@@ -17,4 +17,9 @@ AJAX requests (GET and POST requests) and APIs are used for displaying, liking, 
 
 ## **Use of Database**
 
-There is already one hard coded table of 8 tiktok videos URLs. Whenever the user likes the first video, another table named "PrefTable" is created by POST request and the liked videos are added into that table afterwards. These all happen in ["compare.js"](../master/public/compare.js). In the end, ["pickWinner.js"](../master/pickWinner.js) will go through the the table of liked videos and determine the winner (["winner.js"](../master/public/winner.js)).
+There is already one hard coded table of 8 tiktok videos URLs. Whenever the user likes the first video, another table named "PrefTable" is created by POST request and the liked videos are added into that table afterwards. These all happen in ["compare.js"](../master/public/compare.js). In the end, ["pickWinner.js"](../master/pickWinner.js) will go through the the table of liked videos and determine the winner (["winner.js"](../master/public/winner.js)). ["index.js"](../master/index.js) is handling all backend requests.
+
+
+## **Frontend
+
+No external libraries have been used for this project, except FontAwesome for icons and Google Fonts for fonts. Frontend is typical CSS and HTML. Additionally, media queries are taking care of responsiveness. 
