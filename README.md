@@ -1,8 +1,6 @@
 # TiktokPets
-Tiktok Videos by Node.js
 
-
-All files are under "master" branch.
+**All files are under "master" branch.**
 
 
 ## **Description**
