@@ -17,4 +17,4 @@ AJAX requests (GET and POST requests) and APIs are used for displaying, liking, 
 
 ## **Database**
 
-There is already one hard coded table of 8 tiktok videos URLs. Whenever the user likes the first video, another table named "PrefTable" is created by POST request and the liked videos are added into that table afterwards. These all happen in ["winner.js"](././master/public/winner.js)
+There is already one hard coded table of 8 tiktok videos URLs. Whenever the user likes the first video, another table named "PrefTable" is created by POST request and the liked videos are added into that table afterwards. These all happen in ["winner.js"](../master/public/winner.js)
